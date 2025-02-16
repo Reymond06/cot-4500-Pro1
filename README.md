@@ -24,5 +24,5 @@ You only need to install the following libraries to utilize this code:
 pip install -r requirements.txt
 
 # Run Program:
-python main.py
+To run this progam, please save the file and run the following command into your terminal: python3 __init__.py
 
